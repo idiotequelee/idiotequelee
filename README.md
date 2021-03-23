@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @idiotequelee.
 - 👀 I’m interested in python.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on someone who wants to collaborate whith me.
+- 💞️ I’m looking to collaborate on someone awesome.
 - 📫 How to reach me t.me/idiotequelee
 
 <!---
